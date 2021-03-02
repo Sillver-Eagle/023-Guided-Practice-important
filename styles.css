@@ -1,0 +1,28 @@
+h3{
+  text-align: center;
+}
+
+body{
+  font-family:Helvetica, sans-serif;
+  background-color:#fee475;
+}
+
+.login-box{
+  border: 2px solid #000;
+  border-radius:2%;
+  padding: 10px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+.logged_in_content{
+  display: none;
+}
+
+.greeting{
+  color: #f00;
+}
+
+input{
+  border:2px solid black;
+}
